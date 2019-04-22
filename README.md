@@ -1,4 +1,4 @@
-# Action-Detection
+# Action Detection using 3D-CNN
 Activity recognition of JCB machine in a construction site using 3D-CNN
 
 Result Video:
